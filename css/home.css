@@ -83,6 +83,12 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 3px;
+    width: 60%;
+    background: white;
+}
+
+.slay {
     background-color: black;
     color: white;
     .content {
@@ -144,3 +150,4 @@ a {
 
 
 
+}
