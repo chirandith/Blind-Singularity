@@ -20,7 +20,7 @@ body {
 
 .chapter {
     .content {
-        margin: 10px;
+        margin: 15px;
         display: flex;
         flex-direction: column;
         gap: 20px;
@@ -29,6 +29,7 @@ body {
             font-family: 'Clash Grotesk', sans-serif;
         }
         p {
+            font-size: 17px;
             text-align: justify;
             font-family: 'Neco', serif;
         }

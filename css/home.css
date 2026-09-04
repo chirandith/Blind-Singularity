@@ -52,9 +52,13 @@ a {
                 border: 2px solid white;
                 color: white;
             }
-            button:first-child {
-                background-color: white;
+            .more {
                 color: black;
+                background-color: white;
+            }
+            .chaplist:hover {
+                color: black;
+                background: white;
             }
         }
     }
