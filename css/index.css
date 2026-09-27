@@ -66,6 +66,11 @@ button {
             border-radius: 20px;
             color: white;
             background: gold;
+        h1 {
+            font-size: 64px;
+        }
+        p {
+            color: rgb(138, 133, 106);
         }
     }
 }
@@ -102,6 +107,11 @@ button {
             border-radius: 20px;
             color: white;
             background: #6495ED;
+        h1 {
+            font-size: 75px;
+        }
+        p {
+            color: #7a88a0;
         }
     }
 }
@@ -138,6 +148,11 @@ button {
             border-radius: 20px;
             color: white;
             background: #DC143C;
+        h1 {
+            font-size: 75px;
+        }
+        p {
+            color: #a37880;
         }
     }
 }
