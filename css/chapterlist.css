@@ -15,7 +15,6 @@ body {
     gap: 30px;
     img {
         width: 40px;
-        fill: gold;
     }
     h3 {
         font-family: 'Clash Display', sans-serif;
@@ -33,15 +32,15 @@ body {
         gap: 20px;
         button {
             background: transparent;
-            border: 2px solid gold;
-            color: gold;
+            border: 2px solid white;
+            color: white;
             padding: 20px;
             font-family: 'Clash Grotesk', sans-serif;
             width: 300px;
         }
         button:hover {
-            color: white;
-            background: gold;
+            color: black;
+            background: white;
         }
     }
 }
