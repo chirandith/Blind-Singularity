@@ -52,9 +52,13 @@ a {
                 border: 2px solid white;
                 color: white;
             }
-            button:first-child {
-                background-color: white;
+            .more {
                 color: black;
+                background-color: white;
+            }
+            .chaplist:hover {
+                color: black;
+                background: white;
             }
         }
     }
@@ -83,12 +87,6 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 3px;
-    width: 60%;
-    background: white;
-}
-
-.slay {
     background-color: black;
     color: white;
     .content {
@@ -150,4 +148,4 @@ a {
 
 
 
-}
+
